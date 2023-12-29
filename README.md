@@ -18,10 +18,25 @@ Visual components and Python
 
 ## Experiment:
 
+![exp (1)](https://github.com/ramjan1729/Open-Jacson-Networks/assets/154911090/c8f84699-51d6-47ab-b899-7c7657a65e62)
+
+
 
 ## Program
+      Developed by: R SAKET RAM 
+      REGISTER NO: 23013948
+
+![program](https://github.com/ramjan1729/Open-Jacson-Networks/assets/154911090/301598e4-9f2b-490c-8212-fadf4968f96a)
+
+
 
 
 ## Output
 
+![op](https://github.com/ramjan1729/Open-Jacson-Networks/assets/154911090/c66337c2-4b28-4fe2-a9fe-45e6acd5416a)
+
+
+
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are
+successfully foun
